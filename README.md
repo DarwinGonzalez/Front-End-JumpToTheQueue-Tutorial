@@ -6,3 +6,7 @@ Tutorial "Build your own DEVON4ng application" it shows how to build a new *Devo
 * The DEVON platform provides a solution for client apps based on [Angular framework](https://angular.io/).
 
 *The tutorial is available in this [link](https://github.com/devonfw/devonfw-tutorial-sources/wiki/BuildDEVON4ngApplication).*
+
+<p align="center">
+<img src="https://github.com/DarwinGonzalez/Front-End-JumpToTheQueue-Tutorial/blob/master/src/assets/images/login1.png?raw=true" width="30%" height="30%">
+</p>
