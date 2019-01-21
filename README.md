@@ -1,27 +1,8 @@
-# Angular
+# Tutorial Front-End JumpTotheQueue 
+Tutorial "Build your own DEVON4ng application" it shows how to build a new *Devon4ng* from scratch. The proposal of this tutorial is to end having enough knowledge of Angular and the rest of technologies regarding DEVON4ng to know how to start developing on it.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
+* The application is made with [Devon4ng](https://github.com/devonfw/devon4j): client implemented with JavaScript.
 
-## Development server
+* The DEVON platform provides a solution for client apps based on [Angular framework](https://angular.io/).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+*The tutorial is available in this [link](https://github.com/devonfw/devonfw-tutorial-sources/wiki/BuildDEVON4ngApplication).*
